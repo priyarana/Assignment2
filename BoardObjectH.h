@@ -3,6 +3,7 @@
 enum ObjectColours { BLACK, YELLOW, BLUE, RED, INVISIBLE, BACKGROUND};
 enum ObjectTypes { THE_BACKGROUND, A_COOKIE, A_PLAYER ,A_WALL};
 
+//class boardobject –comment for leanring task1
 
 class BoardObject
 {
@@ -46,4 +47,5 @@ protected:
 
 //int BoardObject::count=0;
 #endif // H_BOARD_OBJECT
+
 
