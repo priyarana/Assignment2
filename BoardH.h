@@ -3,6 +3,7 @@
 #define ROWS 20
 #define COLUMNS 20
 
+//adding comment just for learning task1
 #include <vector>
 #include  "BoardObjectH.h"
 #include  "ListBoardObjectsH.h"
@@ -78,3 +79,4 @@ public:
 	bool IamAlive() {if (0<lives) { lives--; return true;}
                          else return false;}
 };
+
