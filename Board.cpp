@@ -1,5 +1,4 @@
 
-//comment
 #include  <string>
 #include <iostream>
 #include  "BoardH.h"
