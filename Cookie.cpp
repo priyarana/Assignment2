@@ -4,6 +4,7 @@
 #include "BoardObjectH.h"
 #include "CookieH.h"
 
+//ADDING COMMENT FOR LEARNING TASK1
 int PrizeValues[]={10,20,30,40};
 
 void Cookie :: touch ()
@@ -21,4 +22,5 @@ void Cookie :: touch ()
 
 int Cookie :: get_value ()
 	{return PrizeValues[valueIndex]; }
+
 
