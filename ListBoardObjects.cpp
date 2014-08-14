@@ -1,7 +1,7 @@
 #include <iostream>
 #include "BoardObjectH.h"
 #include "ListBoardObjectsH.h"
-
+//adding comment to learn TASK1
 ListBoardObjects:: ListBoardObjects(p_BoardObject newOne):list()
 	{
 	 	std::vector <p_BoardObject>:: iterator it; //std:: .???
